@@ -1,0 +1,4 @@
+project:
+    name: etl-airflow
+postgres:
+    port: 5433
